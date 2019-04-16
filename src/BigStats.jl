@@ -8,7 +8,7 @@ using NamedTupleTools
 import ShiftedArrays
 import StatsModels: predict
 
-export ols, predict, residuals, coef
+export ols, predict, residuals, coef, lag
 
 struct OLS
     formula::FormulaTerm
