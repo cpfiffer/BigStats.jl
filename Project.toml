@@ -1,0 +1,11 @@
+name = "BigStats"
+uuid = "7ca37696-5ff1-11e9-2ea9-c9f6667e0a58"
+authors = ["Cameron Pfiffer <cpfiffer@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+JuliaDB = "a93385a2-3734-596a-9a66-3cfbb77141e6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
+ShiftedArrays = "1277b4bf-5013-50f5-be3d-901d8477a67a"
+StatsModels = "3eaba693-59b7-5ba5-a881-562e759f1c8d"
